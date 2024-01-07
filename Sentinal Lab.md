@@ -1,4 +1,4 @@
-# Azure Sentinel Tutorial MAP with LIVE CYBER ATTACKS
+# Azure Sentinel MAP with LIVE CYBER ATTACKS
 # Description
 The Powershell script in this repository is responsible for parsing out Windows Event Log information for failed RDP attacks and using a third party API to collect geographic information about the attackers location.
 
